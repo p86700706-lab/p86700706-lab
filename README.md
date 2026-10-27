@@ -4,8 +4,6 @@
   <img src="https://vercel.app🎈&fontSize=45&fontColor=7a6268" width="100%">
 </p>
 
-
-
 ### 🎀 My Social Media
 *คลิกที่ข้อความด้านล่างเพื่อเปิดวาร์ปไปยังโซเชียลของฉันได้เลยนะคะ* 👇
 
@@ -24,4 +22,3 @@
   <img src="https://vercel.app" alt="Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Langs" width="48%" />
 </p>
-
