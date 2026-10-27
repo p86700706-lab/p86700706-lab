@@ -9,15 +9,6 @@
 
 💖 [**Instagram**](https://instagram.com) | 💙 [**Facebook**](https://facebook.com) | 🖤 [**TikTok**](https://tiktok.com)
 
----
-
-### 🎨 Languages & Tools
-- 💻 **HTML5 / CSS3 / JavaScript / Python**
-
----
-
-### 💖 My GitHub Stats
-
 <p align="center">
   <img src="https://vercel.app" alt="Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Langs" width="48%" />
