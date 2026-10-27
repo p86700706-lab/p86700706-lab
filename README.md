@@ -4,11 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F3E3D9&height=150&section=header&text=Lookpad%20%E2%99%A1&fontSize=40&fontColor=896B60&fontAlignY=45" width="100%" />
 
-### ୨୧ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 ୨୧
 
-♡ a little world full of lovely things ♡
-
-🌷 𝓼𝓸𝓯𝓽 𝓿𝓲𝓫𝓮𝓼 • 𝓼𝔀𝓮𝓮𝓽 𝓶𝓮𝓶𝓸𝓻𝓲𝓮𝓼 🌷
 
 </div>
 
@@ -35,16 +31,6 @@
 </p>
 
 <div align="center">
-
-୨୧ ┈┈┈┈┈┈┈┈┈ ୨୧
-
-### 🤎 𝓛𝓲𝓽𝓽𝓵𝓮 𝓓𝓮𝓽𝓪𝓲𝓵𝓼
-
-✿ taking photos  
-♡ collecting memories  
-୨୧ enjoying little things
-
-୨୧ ┈┈┈┈┈┈┈┈┈ ୨୧
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F3E3D9&height=90&section=footer" width="100%" />
 
