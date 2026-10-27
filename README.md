@@ -29,5 +29,5 @@
 </p>
 
 <p align="left">
-  🌷 *little moments, lovely memories* 🌷
+  🌷May every day be a good day 🌷
 </p>
