@@ -1,60 +1,53 @@
-<!-- 🎀 VINTAGE PROFILE 🎀 -->
+<!-- 🌷 VINTAGE COQUETTE PROFILE 🌷 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F3E4DC&height=150&section=header&text=Lookpad%20%E2%99%A1&fontSize=38&fontColor=87665C&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3E3D9&height=150&section=header&text=Lookpad%20%E2%99%A1&fontSize=40&fontColor=896B60&fontAlignY=45" width="100%" />
 
-### ୨୧ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓵𝓲𝓽𝓽𝓵𝓮 𝔀𝓸𝓻𝓵𝓭 ୨୧
+### ୨୧ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 ୨୧
 
-♡ 𝒜 𝓁𝒾𝓉𝓉𝓁𝑒 𝓋𝒾𝓃𝓉𝒶𝑔𝑒 𝓈𝓅𝒶𝒸𝑒 ♡
+♡ a little world full of lovely things ♡
 
-🌷 collecting memories • taking photos • being myself 🌷
+🌷 𝓼𝓸𝓯𝓽 𝓿𝓲𝓫𝓮𝓼 • 𝓼𝔀𝓮𝓮𝓽 𝓶𝓮𝓶𝓸𝓻𝓲𝓮𝓼 🌷
 
 </div>
 
 ---
 
-### 🎀 MY SOCIALS
+### 🎀 𝓜𝔂 𝓢𝓸𝓬𝓲𝓪𝓵𝓼
 
 <p align="left">
-  <a href="https://www.instagram.com/lookpad.snap/">
-    <img src="https://img.shields.io/badge/Instagram-E8C9C7?style=for-the-badge&logo=instagram&logoColor=795C55" alt="Instagram" />
-  </a>
-  <a href="https://www.instagram.com/lookpad.snap/">
-    <img src="https://img.shields.io/badge/lookpad.snap-F8EFEB?style=for-the-badge&logoColor=795C55" alt="lookpad.snap" />
-  </a>
-  <br><br>
-  <a href="https://www.facebook.com/share/1GT7z5CZUA/">
-    <img src="https://img.shields.io/badge/Facebook-D8D9E5?style=for-the-badge&logo=facebook&logoColor=665F78" alt="Facebook" />
-  </a>
-  <a href="https://www.facebook.com/share/1GT7z5CZUA/">
-    <img src="https://img.shields.io/badge/My%20Facebook-F8EFEB?style=for-the-badge&logoColor=795C55" alt="My Facebook" />
-  </a>
-  <br><br>
-  <a href="https://www.tiktok.com/@___pr_4">
-    <img src="https://img.shields.io/badge/TikTok-D7C2B8?style=for-the-badge&logo=tiktok&logoColor=795C55" alt="TikTok" />
-  </a>
-  <a href="https://www.tiktok.com/@___pr_4">
-    <img src="https://img.shields.io/badge/___pr_4-F8EFEB?style=for-the-badge&logoColor=795C55" alt="___pr_4" />
+  <a href="https://www.instagram.com/lookpad.snap/" target="_blank">
+    <img src="https://img.shields.io/badge/📷_Instagram-lookpad.snap-E8C9C7?style=flat-square&logo=instagram&logoColor=8B5E62" alt="Instagram - lookpad.snap" />
   </a>
 </p>
 
----
+<p align="left">
+  <a href="https://www.facebook.com/share/1GT7z5CZUA/" target="_blank">
+    <img src="https://img.shields.io/badge/♡_Facebook-My_Profile-DCDCEC?style=flat-square&logo=facebook&logoColor=6874A5" alt="Facebook profile" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.tiktok.com/@___pr_4" target="_blank">
+    <img src="https://img.shields.io/badge/♪_TikTok-___pr_4-E4D0C5?style=flat-square&logo=tiktok&logoColor=795C55" alt="TikTok - ___pr_4" />
+  </a>
+</p>
 
 <div align="center">
 
-### 🤎 MY LITTLE CORNER
+୨୧ ┈┈┈┈┈┈┈┈┈ ୨୧
 
-୨୧ ─────────────── ୨୧
+### 🤎 𝓛𝓲𝓽𝓽𝓵𝓮 𝓓𝓮𝓽𝓪𝓲𝓵𝓼
 
-♡ little things make life lovely ♡
+✿ taking photos  
+♡ collecting memories  
+୨୧ enjoying little things
 
-🌸 soft colors • sweet moments • happy days 🌸
+୨୧ ┈┈┈┈┈┈┈┈┈ ୨୧
 
-୨୧ ─────────────── ୨୧
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3E3D9&height=90&section=footer" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F3E4DC&height=90&section=footer" width="100%" />
-
-<sub>♡ made with love by Lookpad ♡</sub>
+<sub>୨୧ made with ♡ by Lookpad ୨୧</sub>
 
 </div>
