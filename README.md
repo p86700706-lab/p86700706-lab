@@ -1,21 +1,33 @@
-<div align="center">
+### 🎀 𝓜𝔂 𝓢𝓸𝓬𝓲𝓪𝓵𝓼
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F3E3D9&height=100&text=୨୧%20Lookpad%20୨୧&fontSize=24&fontColor=896B60" width="100%" />
+<p align="left">
+  <a href="https://www.instagram.com/lookpad.snap/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="24" align="center" alt="Instagram" />
+    <b> Instagram</b>
+    <code> @lookpad.snap </code>
+  </a>
+</p>
 
-🌷 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓁𝒾𝓉𝓉𝓁𝑒 𝓌𝑜𝓇𝓁𝒹 🌷
+<p align="left">
+  <a href="https://www.facebook.com/share/1GT7z5CZUA/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="24" align="center" alt="Facebook" />
+    <b> Facebook</b>
+    <code> My Profile </code>
+  </a>
+</p>
 
-♡ ───────────── ♡
+<p align="left">
+  <a href="https://www.tiktok.com/@___pr_4" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/48/tiktok.png" width="24" align="center" alt="TikTok" />
+    <b> TikTok</b>
+    <code> @___pr_4 </code>
+  </a>
+</p>
 
-🎀 **ABOUT ME**
+<p align="left">
+  ୨୧ ─────────────── ♡ ─────────────── ୨୧
+</p>
 
-୨୧ just a girl who loves taking photos
-
-🌸 collecting little memories
-
-🤎 vintage • anime • soft pink
-
-♡ ───────────── ♡
-
-*make every little moment lovely*
-
-</div>
+<p align="left">
+  🌷 *little moments, lovely memories* 🌷
+</p>
