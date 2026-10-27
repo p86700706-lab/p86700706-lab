@@ -1,41 +1,23 @@
-# 🎀 𝓜𝔂 𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪
+<!-- 🎀 VINTAGE ANIME PROFILE 🎀 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F3E5D8&height=160&section=header&text=Welcome%20to%20my%20world&fontSize=30&fontColor=8B6F63&fontAlignY=50" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  ୨୧ ─────────────── ୨୧
-  <br><br>
-  ♡ 𝒜 𝓁𝒾𝓉𝓉𝓁𝑒 𝓌𝑜𝓇𝓁𝒹 𝑜𝒻 𝓂𝒾𝓃𝑒 ♡
-  <br>
-  <sub>🌷 collecting memories & little moments 🌷</sub>
-  <br><br>
-  ୨୧ ─────────────── ୨୧
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F2D9D0&height=160&section=header&text=Lookpad%20♡&fontSize=42&fontColor=795C55&fontAlignY=45" width="100%" />
 
-## 🤎 𝓕𝓲𝓷𝓭 𝓜𝓮 𝓗𝓮𝓻𝓮
+<img src="https://i.pinimg.com/originals/6f/4c/0a/6f4c0a2c6d6d8f4b8f3e5b5b8e8b5b6d.gif" width="180" alt="Cute anime girl" />
 
-<p align="center">
+### ୨୧ 𝓛𝓸𝓸𝓴𝓹𝓪𝓭'𝓼 𝓦𝓸𝓻𝓵𝓭 ୨୧
+
+*♡ little things, lovely memories ♡*
+
+🌷 𝒮𝓉𝒶𝓎 𝓈𝑜𝒻𝓉 & 𝒷𝑒 𝓎𝑜𝓊𝓇𝓈𝑒𝓁𝒻 🌷
+
+</div>
+
+---
+
+### 🎀 MY SOCIALS
+
+<p align="left">
   <a href="https://www.instagram.com/lookpad.snap/">
-    <img src="https://img.shields.io/badge/Instagram-CB8E91?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="https://www.facebook.com/share/1GT7z5CZUA/">
-    <img src="https://img.shields.io/badge/Facebook-A5A9B8?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="https://www.tiktok.com/@___pr_4">
-    <img src="https://img.shields.io/badge/TikTok-8B7765?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  🌸 ── 𝒮𝓉𝒶𝓎 𝓈𝑜𝒻𝓉, 𝓈𝓉𝒶𝓎 𝓎𝑜𝓊 ── 🌸
-  <br><br>
-  <sub>♡ thank you for visiting my little space ♡</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F3E5D8&height=80&section=footer" width="100%" />
-</p>
+    <img src="https://img.shields.io/badge/Instagram-EDD0D0?style=for-the-badge&logo=instagram&logoColor=795
